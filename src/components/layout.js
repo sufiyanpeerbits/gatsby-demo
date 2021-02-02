@@ -18,9 +18,9 @@ import "../assets/bootstrap/css/bootstrap.min.css" // <!-- Bootstrap CSS -->
 import "../assets/font-awesome/css/all.min.css" // <!-- font-awesome Style -->
 import "../assets/css/style.css" // <!-- Custom css style -->
 
-// import "../../public/assets/js/jquery-3.2.1.slim.min.js"
+// import "../assets/js/jquery-3.2.1.slim.min.js"
 // import "https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
-// import "../../public/assets/bootstrap/js/bootstrap.min.js"
+// import "../assets/bootstrap/js/bootstrap.min.js"
 
 const Layout = ({ children }) => {
   return (

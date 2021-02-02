@@ -7,7 +7,7 @@ const footer = ({ siteTitle }) => (
     <div className="container">
         <div className="row">
           <div className="col-md-4">
-            <a className="d-block pb-4" href="/"><img src="../assets/images/logo-white.png" /></a>
+            <a className="d-block pb-4" href="/"><img src={require("../assets/images/logo-white.png")} /></a>
             <p>B/701, Siddhi Vinayak Towers,<br />
               Off S.G.Road, Makarba,<br />
               Ahmedabad-380051

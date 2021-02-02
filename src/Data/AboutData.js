@@ -3,7 +3,7 @@ export const HomeData = [
   {
     id: 1,      
     title: "We offer gas and fuel delivery solutions",
-    img: "../assets/images/about-us-banner.png"
+    img: require("../assets/images/about-us-banner.png")
   },
   // Multicolor box
   {

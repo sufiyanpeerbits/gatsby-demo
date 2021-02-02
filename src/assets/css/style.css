@@ -140,7 +140,7 @@ img {
     text-align: center;
     padding: 20px;
     border-radius: 20px;
-    max-height: 210px;
+    min-height: 210px;
 }
 
 .multicolor-box.child1 .box{background: #fff1f3;}
